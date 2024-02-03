@@ -1,3 +1,6 @@
 {
-    "workbench.colorTheme": "light-blue"
+    "workbench.colorTheme": "light-blue",
+    "git.enabled": true,
+    "git.enableCommitSigning": true,
+    "git.defaultSignCommit": "GPG"
 }
