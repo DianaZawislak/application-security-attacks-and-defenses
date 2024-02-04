@@ -2,5 +2,7 @@
     "workbench.colorTheme": "light-blue",
     "git.enabled": true,
     "git.enableCommitSigning": true,
-    "git.defaultSignCommit": "GPG"
+    "git.defaultSignCommit": "GPG",
+    "terminal.integrated.shell.windows": "C:\\msys64\\usr\\bin\\bash.exe",
+    "terminal.integrated.shellArgs.windows": ["--login", "-i"],
 }
